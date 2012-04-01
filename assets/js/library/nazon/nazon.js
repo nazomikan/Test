@@ -1,0 +1,2 @@
+/*global nazon*/
+var nazon = {};
