@@ -1,6 +1,6 @@
-/*gobal paper*/
+/*global paper*/
 (function () {
-    "use strict";
+// miss use strict
     paper.daily();
     paper.daily();
     paper.daily();
